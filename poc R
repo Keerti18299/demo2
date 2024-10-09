@@ -1,0 +1,23 @@
+if(4<5){
+  print("i waill say yes")
+}else{
+  print("i will say no")
+}
+#&, |
+(3>2) & (2>3)
+(3>2) | (2>3)
+if((3>2) & (2>3)){
+  print("i will say yes")
+}else{
+  print("i will say no")
+}
+#>,<,==
+3==3
+3!=3
+# for loop
+# Iterator
+# List
+1:10
+for(my_it in (1:10)){
+  print(my_it)
+}
